@@ -23,17 +23,12 @@
 
 <!-- 🎮 GIF central do Kirby -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWl4dzc5cHF1enVpNTRnM3AxdWE5NHZ3d3QybnR1Z2Y4NWVnaHIzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1YeMpgOOPpxxUpSlJD/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZW85NDE0OHc4NTMyaHd6MnN4Y2lvcmlscGpqYXF6aGV3d3p0cndldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eZsXcG2Y8zZDO/giphy.gif" width="220">
 </div>
 
 <!-- 🏷️ Badge com username -->
 <div align="center">
   <img src="https://img.shields.io/badge/kaneka8-FF9AD5?style=flat&logo=github&logoColor=white" />
-</div>
-
-<!-- ✨ Texto animado digitando -->
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&color=7AD0FF&width=900&size=21&center=true&lines=Transformando+código+em+experiências+incríveis;Especialista+em+Python+e+React+Native;Apaixonado+por+jogos+e+tecnologia;Seja+bem-vindo(a)+ao+meu+universo!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -81,8 +76,8 @@
 
 <!-- 💻 Skills com ícones animados -->
 <div align="center" style="display: inline_block"><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBlY2Njdmx5d2Q2MG9odTFuYzF4OHVwbm9wOTZscmo4aG53bjZ2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIEBRZDZ6pWN2/giphy.gif" width="40" title="Python" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBlY2Njdmx5d2Q2MG9odTFuYzF4OHVwbm9wOTZscmo4aG53bjZ2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlIDueXmcWNTPO0/giphy.gif" width="40" title="React Native" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python.svg" width="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ReactNative.svg" width="40" title="React Native" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
 </div>
